@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Loyalty</string>
+
+    <!-- Login strings -->
+    <string name="login_title">Loyalty</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_sign_in_button">Login</string>
 </resources>
