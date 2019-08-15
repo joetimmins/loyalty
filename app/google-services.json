@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861996444458",
+    "firebase_url": "https://loyalty-222ab.firebaseio.com",
+    "project_id": "loyalty-222ab",
+    "storage_bucket": "loyalty-222ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861996444458:android:b1d194588faff58b",
+        "android_client_info": {
+          "package_name": "com.novoda.loyalty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861996444458-7kofvu5am6gk44ujr1f530sve3dpcge5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPg409cpFAvSwq0UGK-wfj81HBxqRpyjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861996444458-7kofvu5am6gk44ujr1f530sve3dpcge5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
