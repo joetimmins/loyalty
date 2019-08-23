@@ -6,4 +6,11 @@
     <string name="login_email_hint">Email</string>
     <string name="login_password_hint">Password</string>
     <string name="login_sign_in_button">Login</string>
+
+
+
+    <!-- Sign up strings -->
+    <string name="signup_email_hint">Email</string>
+    <string name="signup_password_hint">Password</string>
+    <string name="signup_password_confirm_hint">Confirm password</string>
 </resources>
