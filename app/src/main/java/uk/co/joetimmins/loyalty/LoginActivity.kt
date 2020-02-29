@@ -1,4 +1,4 @@
-package com.novoda.loyalty
+package uk.co.joetimmins.loyalty
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

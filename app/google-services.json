@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:861996444458:android:b1d194588faff58b",
+        "mobilesdk_app_id": "1:861996444458:android:e713dfee0b5658a06b8c53",
         "android_client_info": {
-          "package_name": "com.novoda.loyalty"
+          "package_name": "uk.co.joetimmins.loyalty"
         }
       },
       "oauth_client": [

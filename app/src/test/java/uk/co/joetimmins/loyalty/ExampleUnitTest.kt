@@ -1,4 +1,4 @@
-package com.novoda.loyalty
+package uk.co.joetimmins.loyalty
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
